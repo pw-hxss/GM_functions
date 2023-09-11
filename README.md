@@ -1,5 +1,5 @@
 # GM_functions
-Additional DOM Manipulation Grants
+DOM Manipulation Grants
 ```
  @grant GM_getDocument
  @grant GM_setDocument
